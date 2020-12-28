@@ -12,7 +12,7 @@ import android.widget.ImageView;
 
 import com.aminography.choosephotohelper.ChoosePhotoHelper;
 import com.aminography.choosephotohelper.callback.ChoosePhotoCallback;
-import com.github.dhaval2404.imagepicker.ImagePicker;
+
 
 public class MainActivity extends AppCompatActivity {
     ImageView imageView;
